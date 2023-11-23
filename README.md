@@ -1,2 +1,3 @@
-# CODESOFT
-projects that I have build during the internship with CodeSoft
+# CODESOFT  
+Data Science Projects :  
+> Credit card fraud detection  
